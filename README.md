@@ -234,11 +234,11 @@ This project demonstrates how analytics can help food delivery businesses:
 
 ## 🤝 Connect With Me
 
-**Vishnu Ravankar**  
-Credit Analytics & Data Professional · SQL · Excel · Power BI · Financial Data Analysis · 3.5 Yrs in Credit Risk & Underwriting
+**Gayatri Kale**  
+Data Enginner | SQL | Python | PySpark | Power BI | AWS | Azure |GCP
 
-GitHub: https://github.com/vdravankar-tech
-LinkedIn: https://www.linkedin.com/in/vishnu-ravankar-471275b6
+GitHub: https://github.com/gayatrikale1813
+https://www.linkedin.com/in/gayatri-kale0202
 
 ---
 
