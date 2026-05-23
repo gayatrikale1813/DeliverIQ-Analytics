@@ -186,7 +186,7 @@ Most used payment methods:
 ## 📂 Project Structure
 
 ```text
-Online-Food-Delivery-Analytics/
+DeliverIQ Analytics
 │
 ├── README.md
 ├── dashboard.png
@@ -199,7 +199,7 @@ Online-Food-Delivery-Analytics/
 │   ├── order_items.csv
 │   ├── delivery_agents.csv
 │
-├── Online_Food_Delivery.pbix
+├── DeliverIQ Analytics.pbix
 ```
 
 
