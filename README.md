@@ -1,4 +1,4 @@
-# 🍔 Online Food Delivery Business Analytics System
+# 🍔  DeliverIQ Analytics
 
 > **End-to-End SQL + Power BI Business Analytics Project**  
 > Transforming food delivery data into actionable business insights through analytics, KPI tracking, and interactive dashboards.
@@ -7,7 +7,7 @@
 
 ## 📌 Project Overview
 
-The online food delivery industry is highly competitive and data-driven. Companies need to continuously monitor revenue performance, customer behavior, delivery efficiency, and restaurant trends to make better business decisions.
+The DeliverIQ Analytics industry is highly competitive and data-driven. Companies need to continuously monitor revenue performance, customer behavior, delivery efficiency, and restaurant trends to make better business decisions.
 
 This project analyzes transactional food delivery data using **PostgreSQL** and visualizes insights using **Power BI** to answer key business questions and provide strategic recommendations.
 
@@ -77,7 +77,7 @@ This analytics project solves these challenges through KPI-driven analysis and i
 | **Total Revenue** | ₹1.34 Million |
 | **Total Orders** | 1,001 |
 | **Total Customers** | 296 |
-| **Avg Delivery Time** | 40.22 Minutes |
+| **Avg Delivery Time** | 40.20 Minutes |
 
 ---
 
