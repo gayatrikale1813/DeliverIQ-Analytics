@@ -235,7 +235,7 @@ This project demonstrates how analytics can help food delivery businesses:
 ## 🤝 Connect With Me
 
 **Gayatri Kale**  
-Data Enginner | SQL | Python | PySpark | Power BI | AWS | Azure |GCP
+Data Engineer | SQL | Python | PySpark | Power BI | AWS | Azure | GCP
 
 GitHub: https://github.com/gayatrikale1813
  LinkedIn :https://www.linkedin.com/in/gayatri-kale0202
